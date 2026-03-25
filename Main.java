@@ -18,10 +18,6 @@ public class SimpleCalculator {
 
         // Perform calculation using a switch statement
         switch (operator) {
-            case '+':
-                result = num1 + num2;
-                System.out.println("Result: " + result);
-                break;
             case '-':
                 result = num1 - num2;
                 System.out.println("Result: " + result);
