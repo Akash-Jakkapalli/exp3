@@ -42,7 +42,6 @@ public class experiment3 {
                 System.out.println("Invalid operator. Please choose a valid operation.");
         }
 
-        // Close the scanner
-        scanner.close();
     }
+
 }
